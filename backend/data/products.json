@@ -1,0 +1,2945 @@
+[
+ {
+  "id": "orv-001",
+  "sku": "ORV-HA-101",
+  "slug": "aranya-carved-gilt-frame",
+  "name": "Aranya Carved Gilt Frame",
+  "description": "A baroque-inspired frame cast in resin and hand-finished with antique gold leaf. The softly worn edges give it the look of a family heirloom from the first day.",
+  "details": [
+   "Hand-applied gold leaf finish",
+   "Glass front with velvet-backed MDF board",
+   "Wall hanging hooks and tabletop easel included"
+  ],
+  "category": "home-accessories",
+  "subCategory": "photo-frames",
+  "productType": "Photo Frames",
+  "material": "Resin",
+  "finish": "Antique gold leaf",
+  "dimensions": "8 × 10 in (photo) · 12.5 × 14.5 in overall",
+  "weight": "1.1 kg",
+  "care": "Dust with a soft brush or dry cloth. Keep away from direct heat.",
+  "price": 2450,
+  "originalPrice": 2990,
+  "images": [
+   "frame-gold-ornate",
+   "frame-wall-monochrome"
+  ],
+  "availability": true,
+  "stock": 18,
+  "rating": 4.7,
+  "reviewCount": 46,
+  "isFeatured": true,
+  "isBestSeller": true,
+  "isNewArrival": false,
+  "tags": [
+   "heritage",
+   "festive",
+   "wall"
+  ],
+  "createdAt": "2026-10-12T00:00:00.000Z",
+  "salesRank": -46
+ },
+ {
+  "id": "orv-002",
+  "sku": "ORV-HA-102",
+  "slug": "sheesham-walnut-finish-frame",
+  "name": "Sheesham Walnut-Finish Frame",
+  "description": "Solid sheesham moulding with a bevelled inner edge, stained a deep walnut to frame black-and-white prints and family portraits beautifully.",
+  "details": [
+   "Solid Indian rosewood (sheesham)",
+   "Shatter-resistant acrylic glazing",
+   "Hangs portrait or landscape"
+  ],
+  "category": "home-accessories",
+  "subCategory": "photo-frames",
+  "productType": "Photo Frames",
+  "material": "Wood",
+  "finish": "Walnut stain, matte",
+  "dimensions": "5 × 7 in (photo) · 8 × 10 in overall",
+  "weight": "0.6 kg",
+  "care": "Wipe with a soft, dry cloth. Oil with food-safe mineral oil once a month. Do not soak or put in the dishwasher.",
+  "price": 1290,
+  "images": [
+   "frame-walnut",
+   "frame-sideboard"
+  ],
+  "availability": true,
+  "stock": 32,
+  "rating": 4.5,
+  "reviewCount": 28,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": false,
+  "tags": [
+   "wall",
+   "gifting"
+  ],
+  "createdAt": "2026-09-05T00:00:00.000Z",
+  "salesRank": 972
+ },
+ {
+  "id": "orv-003",
+  "sku": "ORV-HA-103",
+  "slug": "tamra-copper-edge-frame",
+  "name": "Tamra Copper-Edge Frame",
+  "description": "A slim, gallery-style frame in brushed copper with a generous ivory mount — made for art prints, certificates and botanical studies.",
+  "details": [
+   "Brushed copper-plated steel profile",
+   "Acid-free 5 cm ivory mount",
+   "Freestanding or wall mounted"
+  ],
+  "category": "home-accessories",
+  "subCategory": "photo-frames",
+  "productType": "Photo Frames",
+  "material": "Metal",
+  "finish": "Brushed copper",
+  "dimensions": "A4 (photo) · 25 × 33 cm overall",
+  "weight": "0.8 kg",
+  "care": "Dust with a dry cloth. Avoid abrasive cleaners and prolonged contact with moisture.",
+  "price": 1890,
+  "originalPrice": 2290,
+  "images": [
+   "frame-copper",
+   "frame-desk-wall"
+  ],
+  "availability": true,
+  "stock": 14,
+  "rating": 4.6,
+  "reviewCount": 12,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": true,
+  "tags": [
+   "modern",
+   "wall"
+  ],
+  "createdAt": "2026-10-29T00:00:00.000Z",
+  "salesRank": 988
+ },
+ {
+  "id": "orv-004",
+  "sku": "ORV-HA-104",
+  "slug": "ivory-lacquer-mini-frame",
+  "name": "Ivory Lacquer Mini Frame",
+  "description": "A softly distressed ivory frame, small enough for a bedside or bookshelf. Perfect for travel snapshots and polaroid-sized keepsakes.",
+  "details": [
+   "Mango wood with ivory lacquer",
+   "Fold-out easel back",
+   "Sold individually"
+  ],
+  "category": "home-accessories",
+  "subCategory": "photo-frames",
+  "productType": "Photo Frames",
+  "material": "Wood",
+  "finish": "Ivory lacquer",
+  "dimensions": "4 × 6 in (photo)",
+  "weight": "0.3 kg",
+  "care": "Wipe with a soft, dry cloth. Oil with food-safe mineral oil once a month. Do not soak or put in the dishwasher.",
+  "price": 790,
+  "images": [
+   "frame-ivory-hand",
+   "frame-photo-wall"
+  ],
+  "availability": true,
+  "stock": 40,
+  "rating": 4.4,
+  "reviewCount": 19,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": false,
+  "tags": [
+   "gifting"
+  ],
+  "createdAt": "2026-06-23T00:00:00.000Z",
+  "salesRank": 981
+ },
+ {
+  "id": "orv-005",
+  "sku": "ORV-HA-105",
+  "slug": "gallery-wall-frame-set-of-7",
+  "name": "Gallery Wall Frame Set of 7",
+  "description": "Everything you need for a balanced gallery wall: seven frames in two complementary finishes, with a paper hanging template so you only drill once.",
+  "details": [
+   "Includes full-size paper layout template",
+   "Mixed oak-veneer and matte black frames",
+   "Mounts and hardware included"
+  ],
+  "category": "home-accessories",
+  "subCategory": "photo-frames",
+  "productType": "Photo Frames",
+  "material": "Wood",
+  "finish": "Natural oak & black",
+  "dimensions": "2 × A3, 3 × A4, 2 × 5 × 7 in",
+  "weight": "4.2 kg",
+  "care": "Wipe with a soft, dry cloth. Oil with food-safe mineral oil once a month. Do not soak or put in the dishwasher.",
+  "price": 6490,
+  "originalPrice": 7990,
+  "images": [
+   "frame-gallery-colour",
+   "frame-wall-monochrome"
+  ],
+  "availability": true,
+  "stock": 9,
+  "rating": 4.8,
+  "reviewCount": 63,
+  "isFeatured": true,
+  "isBestSeller": true,
+  "isNewArrival": false,
+  "tags": [
+   "wall",
+   "hosting"
+  ],
+  "createdAt": "2026-05-17T00:00:00.000Z",
+  "salesRank": -63
+ },
+ {
+  "id": "orv-006",
+  "sku": "ORV-HA-106",
+  "slug": "sutra-marble-sphere-bookends",
+  "name": "Sutra Marble Sphere Bookends",
+  "description": "Two hand-turned marble spheres resting on heavy plinths — sculptural on their own and strong enough to hold a shelf of hardbacks upright.",
+  "details": [
+   "Carved from a single block of Makrana marble",
+   "Felt-lined base protects surfaces",
+   "Sold as a pair"
+  ],
+  "category": "home-accessories",
+  "subCategory": "bookends",
+  "productType": "Bookends",
+  "material": "Marble",
+  "finish": "Honed ivory marble",
+  "dimensions": "12 × 10 × 16 cm each",
+  "weight": "2.6 kg (pair)",
+  "care": "Wipe spills promptly with a damp cloth. Natural stone is porous; avoid acidic liquids such as lemon and vinegar.",
+  "price": 3290,
+  "images": [
+   "bookend-stone-spheres",
+   "books-stack"
+  ],
+  "availability": true,
+  "stock": 11,
+  "rating": 4.9,
+  "reviewCount": 22,
+  "isFeatured": true,
+  "isBestSeller": false,
+  "isNewArrival": false,
+  "tags": [
+   "stone",
+   "library"
+  ],
+  "createdAt": "2026-04-10T00:00:00.000Z",
+  "salesRank": 978
+ },
+ {
+  "id": "orv-007",
+  "sku": "ORV-HA-107",
+  "slug": "brass-hound-bookend",
+  "name": "Brass Hound Bookend",
+  "description": "A cast-brass hound keeps watch over your favourite titles. A playful, weighty accent that reads beautifully against dark bookcase interiors.",
+  "details": [
+   "Solid sand-cast brass",
+   "Hand-polished in Moradabad",
+   "Single bookend"
+  ],
+  "category": "home-accessories",
+  "subCategory": "bookends",
+  "productType": "Bookends",
+  "material": "Brass",
+  "finish": "Polished brass",
+  "dimensions": "9 × 6 × 15 cm",
+  "weight": "1.4 kg",
+  "care": "Brass develops a soft patina over time. To restore shine, polish with a paste of lemon and salt, rinse, and dry thoroughly.",
+  "price": 2890,
+  "images": [
+   "bookcase-brass",
+   "bookcase-green"
+  ],
+  "availability": true,
+  "stock": 7,
+  "rating": 4.6,
+  "reviewCount": 9,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": true,
+  "tags": [
+   "brass",
+   "library",
+   "festive"
+  ],
+  "createdAt": "2026-10-25T00:00:00.000Z",
+  "salesRank": 991
+ },
+ {
+  "id": "orv-008",
+  "sku": "ORV-HA-108",
+  "slug": "terracotta-planter-bookend",
+  "name": "Terracotta Planter Bookend",
+  "description": "Half bookend, half planter. An L-shaped terracotta form with a small pocket for a succulent — the easiest way to bring green to a bookshelf.",
+  "details": [
+   "Kiln-fired terracotta",
+   "Drainage-free planting pocket",
+   "Sold individually"
+  ],
+  "category": "home-accessories",
+  "subCategory": "bookends",
+  "productType": "Bookends",
+  "material": "Ceramic",
+  "finish": "Raw terracotta",
+  "dimensions": "14 × 10 × 12 cm",
+  "weight": "0.9 kg",
+  "care": "Hand wash recommended to preserve the glaze. Microwave and dishwasher use is not advised for hand-glazed pieces.",
+  "price": 1590,
+  "images": [
+   "bookend-planter",
+   "books-stack"
+  ],
+  "availability": false,
+  "stock": 0,
+  "rating": 4.3,
+  "reviewCount": 14,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": false,
+  "tags": [
+   "planter",
+   "library"
+  ],
+  "createdAt": "2026-01-26T00:00:00.000Z",
+  "salesRank": 986
+ },
+ {
+  "id": "orv-009",
+  "sku": "ORV-HA-109",
+  "slug": "luminous-glass-desk-globe",
+  "name": "Luminous Glass Desk Globe",
+  "description": "A hand-painted glass globe that glows softly from within when lit. Equal parts reading lamp and conversation piece for a study or child’s room.",
+  "details": [
+   "Warm LED, USB powered",
+   "Political map with 2026 borders",
+   "Solid brass meridian"
+  ],
+  "category": "home-accessories",
+  "subCategory": "globes",
+  "productType": "Decorative Accents",
+  "material": "Glass",
+  "finish": "Hand-painted glass, brass stand",
+  "dimensions": "20 cm diameter · 32 cm high",
+  "weight": "1.8 kg",
+  "care": "Hand wash in warm, soapy water and dry with a lint-free cloth.",
+  "price": 4490,
+  "images": [
+   "globe-glow",
+   "map-wood"
+  ],
+  "availability": true,
+  "stock": 6,
+  "rating": 4.7,
+  "reviewCount": 17,
+  "isFeatured": true,
+  "isBestSeller": false,
+  "isNewArrival": false,
+  "tags": [
+   "study",
+   "gifting"
+  ],
+  "createdAt": "2025-12-20T00:00:00.000Z",
+  "salesRank": 983
+ },
+ {
+  "id": "orv-010",
+  "sku": "ORV-HA-110",
+  "slug": "engraved-wooden-world-map",
+  "name": "Engraved Wooden World Map",
+  "description": "Continents laser-cut from walnut and layered over a natural pine board — a tactile, architectural alternative to a framed map.",
+  "details": [
+   "Ready to hang with concealed cleat",
+   "Layered relief construction",
+   "Made to order in Jodhpur"
+  ],
+  "category": "home-accessories",
+  "subCategory": "globes",
+  "productType": "Decorative Accents",
+  "material": "Wood",
+  "finish": "Two-tone pine & walnut",
+  "dimensions": "90 × 50 cm",
+  "weight": "3.4 kg",
+  "care": "Wipe with a soft, dry cloth. Oil with food-safe mineral oil once a month. Do not soak or put in the dishwasher.",
+  "price": 5990,
+  "originalPrice": 6990,
+  "images": [
+   "map-wood",
+   "globe-glow"
+  ],
+  "availability": true,
+  "stock": 5,
+  "rating": 4.8,
+  "reviewCount": 31,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": false,
+  "tags": [
+   "wall",
+   "study"
+  ],
+  "createdAt": "2025-11-13T00:00:00.000Z",
+  "salesRank": 969
+ },
+ {
+  "id": "orv-011",
+  "sku": "ORV-HA-111",
+  "slug": "diya-brass-pillar-candlestick",
+  "name": "Diya Brass Pillar Candlestick",
+  "description": "A classic turned-brass candlestick with a wide drip tray, inspired by temple lamps. Group in odd numbers on a dining table or mantel.",
+  "details": [
+   "Solid cast brass",
+   "Fits standard taper candles",
+   "Felt base"
+  ],
+  "category": "home-accessories",
+  "subCategory": "candle-holders",
+  "productType": "Candle Holders",
+  "material": "Brass",
+  "finish": "Antique brass",
+  "dimensions": "10 cm base · 24 cm high",
+  "weight": "0.9 kg",
+  "care": "Brass develops a soft patina over time. To restore shine, polish with a paste of lemon and salt, rinse, and dry thoroughly.",
+  "price": 2190,
+  "images": [
+   "candleholder-brass-tall",
+   "candle-brass-dusk"
+  ],
+  "availability": true,
+  "stock": 26,
+  "rating": 4.8,
+  "reviewCount": 88,
+  "isFeatured": true,
+  "isBestSeller": true,
+  "isNewArrival": false,
+  "tags": [
+   "brass",
+   "festive",
+   "candlelight"
+  ],
+  "createdAt": "2026-09-12T00:00:00.000Z",
+  "salesRank": -88
+ },
+ {
+  "id": "orv-012",
+  "sku": "ORV-HA-112",
+  "slug": "chamber-brass-candle-holder",
+  "name": "Chamber Brass Candle Holder",
+  "description": "A traditional chamberstick with a loop handle, made for carrying light from room to room on slow, power-cut evenings.",
+  "details": [
+   "Spun brass dish, cast stem",
+   "Fits taper and dinner candles",
+   "Candle not included"
+  ],
+  "category": "home-accessories",
+  "subCategory": "candle-holders",
+  "productType": "Candle Holders",
+  "material": "Brass",
+  "finish": "Brushed brass",
+  "dimensions": "13 cm dish · 14 cm high",
+  "weight": "0.5 kg",
+  "care": "Brass develops a soft patina over time. To restore shine, polish with a paste of lemon and salt, rinse, and dry thoroughly.",
+  "price": 1690,
+  "images": [
+   "candleholder-brass-chamber",
+   "candle-marble-lighting"
+  ],
+  "availability": true,
+  "stock": 21,
+  "rating": 4.6,
+  "reviewCount": 24,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": false,
+  "tags": [
+   "brass",
+   "candlelight",
+   "festive"
+  ],
+  "createdAt": "2026-08-06T00:00:00.000Z",
+  "salesRank": 976
+ },
+ {
+  "id": "orv-013",
+  "sku": "ORV-HA-113",
+  "slug": "noir-turned-wood-candlestick",
+  "name": "Noir Turned Wood Candlestick",
+  "description": "A slender, hand-turned candlestick in ebonised mango wood. Its quiet silhouette sits well beside greenery and pale linen.",
+  "details": [
+   "Lathe-turned by hand",
+   "Metal candle cup insert",
+   "Sold individually"
+  ],
+  "category": "home-accessories",
+  "subCategory": "candle-holders",
+  "productType": "Candle Holders",
+  "material": "Wood",
+  "finish": "Ebonised mango wood",
+  "dimensions": "7 cm base · 20 cm high",
+  "weight": "0.4 kg",
+  "care": "Wipe with a soft, dry cloth. Oil with food-safe mineral oil once a month. Do not soak or put in the dishwasher.",
+  "price": 1190,
+  "images": [
+   "candleholder-black",
+   "candle-pillar-trio"
+  ],
+  "availability": true,
+  "stock": 30,
+  "rating": 4.5,
+  "reviewCount": 11,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": true,
+  "tags": [
+   "candlelight",
+   "modern"
+  ],
+  "createdAt": "2026-10-28T00:00:00.000Z",
+  "salesRank": 989
+ },
+ {
+  "id": "orv-014",
+  "sku": "ORV-HA-114",
+  "slug": "rajwada-five-arm-candelabra",
+  "name": "Rajwada Five-Arm Candelabra",
+  "description": "A statement five-arm candelabra with ornate scrolled arms — the centrepiece for wedding season dinners and Diwali tablescapes.",
+  "details": [
+   "Cast aluminium with nickel plating",
+   "Holds five taper candles",
+   "Tarnish-resistant lacquer"
+  ],
+  "category": "home-accessories",
+  "subCategory": "candle-holders",
+  "productType": "Candle Holders",
+  "material": "Aluminium",
+  "finish": "Nickel-plated silver",
+  "dimensions": "38 cm wide · 46 cm high",
+  "weight": "2.3 kg",
+  "care": "Wipe with a soft, damp cloth and dry immediately. Avoid abrasive pads.",
+  "price": 5490,
+  "originalPrice": 6490,
+  "images": [
+   "candelabra-silver",
+   "candle-glass"
+  ],
+  "availability": true,
+  "stock": 4,
+  "rating": 4.7,
+  "reviewCount": 15,
+  "isFeatured": true,
+  "isBestSeller": false,
+  "isNewArrival": false,
+  "tags": [
+   "festive",
+   "hosting",
+   "candlelight"
+  ],
+  "createdAt": "2026-05-24T00:00:00.000Z",
+  "salesRank": 985
+ },
+ {
+  "id": "orv-015",
+  "sku": "ORV-HA-115",
+  "slug": "smoked-glass-votives-set-of-2",
+  "name": "Smoked Glass Votives, Set of 2",
+  "description": "Mouth-blown smoked glass votives that cast a warm, flickering glow. Use with tealights or refill with our soy wax inserts.",
+  "details": [
+   "Mouth-blown in Firozabad",
+   "Fits tealights and votives",
+   "Set of two"
+  ],
+  "category": "home-accessories",
+  "subCategory": "candle-holders",
+  "productType": "Candle Holders",
+  "material": "Glass",
+  "finish": "Smoked grey glass",
+  "dimensions": "8 × 10 cm each",
+  "weight": "0.7 kg",
+  "care": "Hand wash in warm, soapy water and dry with a lint-free cloth.",
+  "price": 1490,
+  "images": [
+   "candle-glass",
+   "candle-glass-cosy"
+  ],
+  "availability": true,
+  "stock": 36,
+  "rating": 4.4,
+  "reviewCount": 37,
+  "isFeatured": false,
+  "isBestSeller": true,
+  "isNewArrival": false,
+  "tags": [
+   "candlelight",
+   "gifting"
+  ],
+  "createdAt": "2026-04-17T00:00:00.000Z",
+  "salesRank": -37
+ },
+ {
+  "id": "orv-016",
+  "sku": "ORV-HA-116",
+  "slug": "amber-jar-soy-candle-trio",
+  "name": "Amber Jar Soy Candle Trio",
+  "description": "Three hand-poured soy candles in reusable amber jars — Vetiver & Cedar, Mogra, and Masala Chai. Around 35 hours of burn time each.",
+  "details": [
+   "100% soy wax, cotton wick",
+   "Phthalate-free fragrance oils",
+   "Jars are reusable once cleaned"
+  ],
+  "category": "home-accessories",
+  "subCategory": "candle-holders",
+  "productType": "Candle Holders",
+  "material": "Glass",
+  "finish": "Amber glass",
+  "dimensions": "7 × 9 cm each",
+  "weight": "1.0 kg",
+  "care": "Hand wash in warm, soapy water and dry with a lint-free cloth.",
+  "price": 1890,
+  "images": [
+   "candle-amber-jars",
+   "candle-pillar-trio"
+  ],
+  "availability": true,
+  "stock": 22,
+  "rating": 4.6,
+  "reviewCount": 52,
+  "isFeatured": false,
+  "isBestSeller": true,
+  "isNewArrival": false,
+  "tags": [
+   "candlelight",
+   "festive",
+   "gifting"
+  ],
+  "createdAt": "2026-03-11T00:00:00.000Z",
+  "salesRank": -52
+ },
+ {
+  "id": "orv-017",
+  "sku": "ORV-HA-117",
+  "slug": "hand-beaten-brass-urli-bowl",
+  "name": "Hand-Beaten Brass Urli Bowl",
+  "description": "A shallow urli hand-beaten by metalsmiths in Kerala. Float marigolds and diyas for festivals, or leave it empty as sculpture.",
+  "details": [
+   "Hand-hammered from a single sheet",
+   "Watertight; suitable for floating flowers",
+   "Each piece varies slightly"
+  ],
+  "category": "home-accessories",
+  "subCategory": "decorative-accents",
+  "productType": "Decorative Bowls",
+  "material": "Brass",
+  "finish": "Hammered brass",
+  "dimensions": "30 cm diameter · 9 cm high",
+  "weight": "1.6 kg",
+  "care": "Brass develops a soft patina over time. To restore shine, polish with a paste of lemon and salt, rinse, and dry thoroughly.",
+  "price": 3490,
+  "originalPrice": 3990,
+  "images": [
+   "brass-bowl-dark",
+   "brass-bowl-hand"
+  ],
+  "availability": true,
+  "stock": 13,
+  "rating": 4.9,
+  "reviewCount": 71,
+  "isFeatured": true,
+  "isBestSeller": true,
+  "isNewArrival": false,
+  "tags": [
+   "brass",
+   "festive",
+   "hosting"
+  ],
+  "createdAt": "2026-02-02T00:00:00.000Z",
+  "salesRank": -71
+ },
+ {
+  "id": "orv-018",
+  "sku": "ORV-HA-118",
+  "slug": "carved-brass-lota",
+  "name": "Carved Brass Lota",
+  "description": "A traditional lota engraved with a band of lotus motifs. Use as a small vase, a pooja vessel, or a quiet heritage accent on a console.",
+  "details": [
+   "Hand-engraved floral band",
+   "Food-safe interior",
+   "Made in Moradabad"
+  ],
+  "category": "home-accessories",
+  "subCategory": "decorative-accents",
+  "productType": "Decorative Accents",
+  "material": "Brass",
+  "finish": "Engraved antique brass",
+  "dimensions": "14 cm diameter · 12 cm high",
+  "weight": "0.8 kg",
+  "care": "Brass develops a soft patina over time. To restore shine, polish with a paste of lemon and salt, rinse, and dry thoroughly.",
+  "price": 2790,
+  "images": [
+   "brass-pot-carved",
+   "brass-bowl-dark"
+  ],
+  "availability": true,
+  "stock": 10,
+  "rating": 4.7,
+  "reviewCount": 18,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": false,
+  "tags": [
+   "brass",
+   "heritage",
+   "festive"
+  ],
+  "createdAt": "2025-12-27T00:00:00.000Z",
+  "salesRank": 982
+ },
+ {
+  "id": "orv-019",
+  "sku": "ORV-HA-119",
+  "slug": "marble-pedestal-fruit-bowl",
+  "name": "Marble Pedestal Fruit Bowl",
+  "description": "A footed bowl carved from warm-toned marble. Heavy, calm and generous — for fruit on the dining table or keys by the door.",
+  "details": [
+   "Hand-carved single block",
+   "Natural veining varies",
+   "Felt pads underneath"
+  ],
+  "category": "home-accessories",
+  "subCategory": "decorative-accents",
+  "productType": "Decorative Bowls",
+  "material": "Marble",
+  "finish": "Honed travertine-tone marble",
+  "dimensions": "28 cm diameter · 12 cm high",
+  "weight": "3.1 kg",
+  "care": "Wipe spills promptly with a damp cloth. Natural stone is porous; avoid acidic liquids such as lemon and vinegar.",
+  "price": 3990,
+  "images": [
+   "bowl-marble-pedestal",
+   "bookend-stone-spheres"
+  ],
+  "availability": true,
+  "stock": 8,
+  "rating": 4.8,
+  "reviewCount": 13,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": true,
+  "tags": [
+   "stone",
+   "hosting"
+  ],
+  "createdAt": "2026-10-31T00:00:00.000Z",
+  "salesRank": 987
+ },
+ {
+  "id": "orv-020",
+  "sku": "ORV-HA-120",
+  "slug": "porcelain-hound-figurine",
+  "name": "Porcelain Hound Figurine",
+  "description": "A charming hand-painted porcelain hound with soulful eyes — a nod to vintage colonial-era bungalow shelves.",
+  "details": [
+   "Glazed porcelain",
+   "Hand-painted detailing",
+   "Decorative use only"
+  ],
+  "category": "home-accessories",
+  "subCategory": "decorative-accents",
+  "productType": "Decorative Accents",
+  "material": "Ceramic",
+  "finish": "Hand-painted glazed porcelain",
+  "dimensions": "18 × 12 × 20 cm",
+  "weight": "0.7 kg",
+  "care": "Hand wash recommended to preserve the glaze. Microwave and dishwasher use is not advised for hand-glazed pieces.",
+  "price": 2290,
+  "images": [
+   "figurine-hound",
+   "bookcase-brass"
+  ],
+  "availability": false,
+  "stock": 0,
+  "rating": 4.5,
+  "reviewCount": 8,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": false,
+  "tags": [
+   "gifting",
+   "library"
+  ],
+  "createdAt": "2026-09-19T00:00:00.000Z",
+  "salesRank": 992
+ },
+ {
+  "id": "orv-021",
+  "sku": "ORV-HA-121",
+  "slug": "rattan-sunburst-mirror-pair",
+  "name": "Rattan Sunburst Mirror Pair",
+  "description": "Two hand-woven rattan mirrors in complementary sizes. Hang them overlapping above a sofa or console for an easy, layered wall.",
+  "details": [
+   "Hand-woven by artisans in Assam",
+   "Bevelled mirror glass",
+   "Set of two"
+  ],
+  "category": "home-accessories",
+  "subCategory": "decorative-accents",
+  "productType": "Decorative Accents",
+  "material": "Wood",
+  "finish": "Natural cane & rattan",
+  "dimensions": "45 cm and 35 cm diameter",
+  "weight": "2.0 kg",
+  "care": "Wipe with a soft, dry cloth. Oil with food-safe mineral oil once a month. Do not soak or put in the dishwasher.",
+  "price": 4990,
+  "images": [
+   "mirror-rattan",
+   "room-living-boho"
+  ],
+  "availability": true,
+  "stock": 6,
+  "rating": 4.6,
+  "reviewCount": 21,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": false,
+  "tags": [
+   "wall",
+   "boho"
+  ],
+  "createdAt": "2026-08-13T00:00:00.000Z",
+  "salesRank": 979
+ },
+ {
+  "id": "orv-022",
+  "sku": "ORV-HA-122",
+  "slug": "woven-wall-basket-set",
+  "name": "Woven Wall Basket Set",
+  "description": "Three flat-woven baskets in sabai grass, made by women’s collectives in Odisha. Arrange as a cluster for warm, textural wall art.",
+  "details": [
+   "Handwoven, naturally dyed",
+   "Loops for easy hanging",
+   "Set of three"
+  ],
+  "category": "home-accessories",
+  "subCategory": "decorative-accents",
+  "productType": "Decorative Accents",
+  "material": "Wood",
+  "finish": "Natural sabai grass & bamboo",
+  "dimensions": "25, 35 and 45 cm diameter",
+  "weight": "1.2 kg",
+  "care": "Wipe with a soft, dry cloth. Oil with food-safe mineral oil once a month. Do not soak or put in the dishwasher.",
+  "price": 3290,
+  "images": [
+   "wall-baskets",
+   "room-living-boho"
+  ],
+  "availability": true,
+  "stock": 15,
+  "rating": 4.5,
+  "reviewCount": 26,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": false,
+  "tags": [
+   "wall",
+   "boho"
+  ],
+  "createdAt": "2026-07-07T00:00:00.000Z",
+  "salesRank": 974
+ },
+ {
+  "id": "orv-023",
+  "sku": "ORV-HA-123",
+  "slug": "minimal-wall-clock",
+  "name": "Minimal Wall Clock",
+  "description": "A crisp, legible wall clock with a silent sweep movement — so it never ticks through a quiet afternoon.",
+  "details": [
+   "Silent sweep quartz movement",
+   "Mineral glass face",
+   "Requires 1 × AA battery"
+  ],
+  "category": "home-accessories",
+  "subCategory": "decorative-accents",
+  "productType": "Decorative Accents",
+  "material": "Metal",
+  "finish": "Matte black steel",
+  "dimensions": "30 cm diameter",
+  "weight": "0.9 kg",
+  "care": "Dust with a dry cloth. Avoid abrasive cleaners and prolonged contact with moisture.",
+  "price": 2490,
+  "images": [
+   "clock-minimal",
+   "clock-planter"
+  ],
+  "availability": true,
+  "stock": 19,
+  "rating": 4.4,
+  "reviewCount": 33,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": false,
+  "tags": [
+   "modern",
+   "wall"
+  ],
+  "createdAt": "2026-05-31T00:00:00.000Z",
+  "salesRank": 967
+ },
+ {
+  "id": "orv-024",
+  "sku": "ORV-HA-124",
+  "slug": "kumbh-matte-ceramic-vase",
+  "name": "Kumbh Matte Ceramic Vase",
+  "description": "Our most-loved vase. A generous, rounded kumbh silhouette in a chalky matte glaze that makes a single branch look intentional.",
+  "details": [
+   "Wheel-thrown stoneware",
+   "Glazed interior holds water",
+   "Made in Khurja"
+  ],
+  "category": "home-accessories",
+  "subCategory": "vases",
+  "productType": "Vases",
+  "material": "Ceramic",
+  "finish": "Matte chalk glaze",
+  "dimensions": "26 cm diameter · 34 cm high",
+  "weight": "2.4 kg",
+  "care": "Hand wash recommended to preserve the glaze. Microwave and dishwasher use is not advised for hand-glazed pieces.",
+  "price": 2890,
+  "images": [
+   "vase-ceramic-white",
+   "vase-console"
+  ],
+  "availability": true,
+  "stock": 17,
+  "rating": 4.9,
+  "reviewCount": 104,
+  "isFeatured": true,
+  "isBestSeller": true,
+  "isNewArrival": false,
+  "tags": [
+   "modern",
+   "minimal"
+  ],
+  "createdAt": "2026-04-24T00:00:00.000Z",
+  "salesRank": -104
+ },
+ {
+  "id": "orv-025",
+  "sku": "ORV-HA-125",
+  "slug": "stoneware-bottle-vases-set-of-3",
+  "name": "Stoneware Bottle Vases, Set of 3",
+  "description": "Three narrow-necked bottle vases in speckled grey — styled together for dried seed heads, or separately for single stems.",
+  "details": [
+   "High-fired stoneware",
+   "Unglazed exterior, sealed interior",
+   "Set of three"
+  ],
+  "category": "home-accessories",
+  "subCategory": "vases",
+  "productType": "Vases",
+  "material": "Stone",
+  "finish": "Speckled grey stoneware",
+  "dimensions": "18, 24 and 30 cm high",
+  "weight": "2.9 kg",
+  "care": "Rinse with water and air dry fully before storing. Season stone mortars with a handful of rice before first use.",
+  "price": 3490,
+  "originalPrice": 3990,
+  "images": [
+   "vase-stoneware-trio",
+   "room-living-dark"
+  ],
+  "availability": true,
+  "stock": 12,
+  "rating": 4.7,
+  "reviewCount": 38,
+  "isFeatured": false,
+  "isBestSeller": true,
+  "isNewArrival": false,
+  "tags": [
+   "stone",
+   "minimal"
+  ],
+  "createdAt": "2026-03-18T00:00:00.000Z",
+  "salesRank": -38
+ },
+ {
+  "id": "orv-026",
+  "sku": "ORV-HA-126",
+  "slug": "twin-bud-vases-on-teak",
+  "name": "Twin Bud Vases on Teak",
+  "description": "Two porcelain bud vases resting on a sculpted teak tray — a small, joyful arrangement for a desk or dining table.",
+  "details": [
+   "Removable vases for cleaning",
+   "Reclaimed teak base",
+   "Set includes tray and two vases"
+  ],
+  "category": "home-accessories",
+  "subCategory": "vases",
+  "productType": "Vases",
+  "material": "Ceramic",
+  "finish": "Gloss white porcelain, teak base",
+  "dimensions": "30 × 14 cm base · 16 cm high",
+  "weight": "0.8 kg",
+  "care": "Hand wash recommended to preserve the glaze. Microwave and dishwasher use is not advised for hand-glazed pieces.",
+  "price": 1690,
+  "images": [
+   "vase-bud-pair",
+   "vase-ceramic-white"
+  ],
+  "availability": true,
+  "stock": 24,
+  "rating": 4.6,
+  "reviewCount": 29,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": false,
+  "tags": [
+   "minimal",
+   "gifting"
+  ],
+  "createdAt": "2026-02-09T00:00:00.000Z",
+  "salesRank": 971
+ },
+ {
+  "id": "orv-027",
+  "sku": "ORV-HA-127",
+  "slug": "mango-wood-bulb-vases-pair",
+  "name": "Mango Wood Bulb Vases, Pair",
+  "description": "Lathe-turned bulb vases with glass test-tube inserts, made for propagating cuttings or holding a single tropical leaf.",
+  "details": [
+   "Hand-turned mango wood",
+   "Removable glass inserts",
+   "Set of two sizes"
+  ],
+  "category": "home-accessories",
+  "subCategory": "vases",
+  "productType": "Vases",
+  "material": "Wood",
+  "finish": "Natural oiled mango wood",
+  "dimensions": "10 cm and 14 cm high",
+  "weight": "0.9 kg",
+  "care": "Wipe with a soft, dry cloth. Oil with food-safe mineral oil once a month. Do not soak or put in the dishwasher.",
+  "price": 2190,
+  "images": [
+   "vase-wood-pair",
+   "clock-planter"
+  ],
+  "availability": true,
+  "stock": 20,
+  "rating": 4.7,
+  "reviewCount": 16,
+  "isFeatured": true,
+  "isBestSeller": false,
+  "isNewArrival": true,
+  "tags": [
+   "minimal",
+   "organic"
+  ],
+  "createdAt": "2026-10-23T00:00:00.000Z",
+  "salesRank": 984
+ },
+ {
+  "id": "orv-028",
+  "sku": "ORV-HA-128",
+  "slug": "antique-brass-bud-vase",
+  "name": "Antique Brass Bud Vase",
+  "description": "A slender footed vase in darkened brass, modelled on a vintage surahi. Beautiful with lilies, tuberose or a single rose.",
+  "details": [
+   "Cast brass with antique patina",
+   "Watertight",
+   "Made in Moradabad"
+  ],
+  "category": "home-accessories",
+  "subCategory": "vases",
+  "productType": "Vases",
+  "material": "Brass",
+  "finish": "Antique dark brass",
+  "dimensions": "8 cm base · 22 cm high",
+  "weight": "0.5 kg",
+  "care": "Brass develops a soft patina over time. To restore shine, polish with a paste of lemon and salt, rinse, and dry thoroughly.",
+  "price": 1990,
+  "images": [
+   "vase-brass-lily",
+   "candle-brass-dusk"
+  ],
+  "availability": true,
+  "stock": 14,
+  "rating": 4.8,
+  "reviewCount": 20,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": true,
+  "tags": [
+   "brass",
+   "festive",
+   "heritage"
+  ],
+  "createdAt": "2026-10-31T00:00:00.000Z",
+  "salesRank": 980
+ },
+ {
+  "id": "orv-029",
+  "sku": "ORV-HA-129",
+  "slug": "mint-glaze-tabletop-planter",
+  "name": "Mint Glaze Tabletop Planter",
+  "description": "A cheerful glossy planter in soft mint, sized for succulents, aloe and small snake plants on a sunny sill.",
+  "details": [
+   "Drainage hole with cork stopper",
+   "Glazed ceramic",
+   "Plant not included"
+  ],
+  "category": "home-accessories",
+  "subCategory": "planters",
+  "productType": "Planters",
+  "material": "Ceramic",
+  "finish": "Gloss mint glaze",
+  "dimensions": "13 cm diameter · 12 cm high",
+  "weight": "0.6 kg",
+  "care": "Hand wash recommended to preserve the glaze. Microwave and dishwasher use is not advised for hand-glazed pieces.",
+  "price": 890,
+  "images": [
+   "planter-aloe-mint",
+   "planter-row"
+  ],
+  "availability": true,
+  "stock": 45,
+  "rating": 4.5,
+  "reviewCount": 58,
+  "isFeatured": false,
+  "isBestSeller": true,
+  "isNewArrival": false,
+  "tags": [
+   "planter",
+   "gifting"
+  ],
+  "createdAt": "2026-09-26T00:00:00.000Z",
+  "salesRank": -58
+ },
+ {
+  "id": "orv-030",
+  "sku": "ORV-HA-130",
+  "slug": "terracotta-mini-pot",
+  "name": "Terracotta Mini Pot",
+  "description": "The classic breathable terracotta pot, slip-finished for a smooth, warm surface. Ideal for cacti and herbs.",
+  "details": [
+   "Kiln-fired terracotta",
+   "Drainage hole",
+   "Plant not included"
+  ],
+  "category": "home-accessories",
+  "subCategory": "planters",
+  "productType": "Planters",
+  "material": "Ceramic",
+  "finish": "Raw terracotta",
+  "dimensions": "9 cm diameter · 10 cm high",
+  "weight": "0.3 kg",
+  "care": "Hand wash recommended to preserve the glaze. Microwave and dishwasher use is not advised for hand-glazed pieces.",
+  "price": 490,
+  "images": [
+   "planter-terracotta-cactus",
+   "planter-shelf"
+  ],
+  "availability": true,
+  "stock": 80,
+  "rating": 4.4,
+  "reviewCount": 41,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": false,
+  "tags": [
+   "planter"
+  ],
+  "createdAt": "2026-08-20T00:00:00.000Z",
+  "salesRank": 959
+ },
+ {
+  "id": "orv-031",
+  "sku": "ORV-HA-131",
+  "slug": "concrete-cylinder-planter",
+  "name": "Concrete Cylinder Planter",
+  "description": "A heavy, minimal cylinder in hand-cast concrete that grounds tall plants and won’t tip on a breezy balcony.",
+  "details": [
+   "Hand-cast, water-sealed",
+   "Indoor and outdoor use",
+   "Drainage hole"
+  ],
+  "category": "home-accessories",
+  "subCategory": "planters",
+  "productType": "Planters",
+  "material": "Stone",
+  "finish": "Sealed natural concrete",
+  "dimensions": "16 cm diameter · 18 cm high",
+  "weight": "2.2 kg",
+  "care": "Rinse with water and air dry fully before storing. Season stone mortars with a handful of rice before first use.",
+  "price": 1290,
+  "images": [
+   "planter-aloe-concrete",
+   "planter-snake"
+  ],
+  "availability": true,
+  "stock": 27,
+  "rating": 4.6,
+  "reviewCount": 23,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": false,
+  "tags": [
+   "planter",
+   "modern"
+  ],
+  "createdAt": "2026-07-14T00:00:00.000Z",
+  "salesRank": 977
+ },
+ {
+  "id": "orv-032",
+  "sku": "ORV-HA-132",
+  "slug": "teak-plant-stand-with-pot",
+  "name": "Teak Plant Stand with Pot",
+  "description": "A mid-century inspired teak stand paired with a matte ivory pot — lifts a monstera or fiddle-leaf fig to eye level.",
+  "details": [
+   "Solid teak legs",
+   "Includes 22 cm ceramic pot",
+   "Easy screw-in assembly"
+  ],
+  "category": "home-accessories",
+  "subCategory": "planters",
+  "productType": "Planters",
+  "material": "Wood",
+  "finish": "Natural teak, ivory pot",
+  "dimensions": "30 cm diameter · 45 cm high",
+  "weight": "3.0 kg",
+  "care": "Wipe with a soft, dry cloth. Oil with food-safe mineral oil once a month. Do not soak or put in the dishwasher.",
+  "price": 2990,
+  "images": [
+   "planter-monstera-stand",
+   "planter-monstera-hold"
+  ],
+  "availability": true,
+  "stock": 9,
+  "rating": 4.7,
+  "reviewCount": 19,
+  "isFeatured": true,
+  "isBestSeller": false,
+  "isNewArrival": false,
+  "tags": [
+   "planter",
+   "organic"
+  ],
+  "createdAt": "2026-06-07T00:00:00.000Z",
+  "salesRank": 981
+ },
+ {
+  "id": "orv-033",
+  "sku": "ORV-HA-133",
+  "slug": "bonsai-ceramic-tray-planter",
+  "name": "Bonsai Ceramic Tray Planter",
+  "description": "A shallow, high-fired tray pot designed for bonsai and miniature landscapes, with wiring holes and generous drainage.",
+  "details": [
+   "Frost-proof stoneware",
+   "Two drainage and wiring holes",
+   "Plant not included"
+  ],
+  "category": "home-accessories",
+  "subCategory": "planters",
+  "productType": "Planters",
+  "material": "Ceramic",
+  "finish": "Unglazed stone grey",
+  "dimensions": "24 × 16 × 6 cm",
+  "weight": "0.9 kg",
+  "care": "Hand wash recommended to preserve the glaze. Microwave and dishwasher use is not advised for hand-glazed pieces.",
+  "price": 1790,
+  "images": [
+   "planter-bonsai",
+   "planter-bonsai-white"
+  ],
+  "availability": true,
+  "stock": 12,
+  "rating": 4.8,
+  "reviewCount": 10,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": true,
+  "tags": [
+   "planter",
+   "organic"
+  ],
+  "createdAt": "2026-10-26T00:00:00.000Z",
+  "salesRank": 990
+ },
+ {
+  "id": "orv-034",
+  "sku": "ORV-HA-134",
+  "slug": "shallow-succulent-bowl",
+  "name": "Shallow Succulent Bowl",
+  "description": "A wide, low bowl for composing a mini desert garden — cacti, echeveria and pebbles on a coffee table.",
+  "details": [
+   "Satin glazed stoneware",
+   "Drainage hole",
+   "Plants not included"
+  ],
+  "category": "home-accessories",
+  "subCategory": "planters",
+  "productType": "Planters",
+  "material": "Ceramic",
+  "finish": "Satin ivory glaze",
+  "dimensions": "24 cm diameter · 8 cm high",
+  "weight": "1.1 kg",
+  "care": "Hand wash recommended to preserve the glaze. Microwave and dishwasher use is not advised for hand-glazed pieces.",
+  "price": 1390,
+  "images": [
+   "planter-cactus-bowl",
+   "planter-row"
+  ],
+  "availability": true,
+  "stock": 16,
+  "rating": 4.5,
+  "reviewCount": 15,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": false,
+  "tags": [
+   "planter"
+  ],
+  "createdAt": "2026-03-25T00:00:00.000Z",
+  "salesRank": 985
+ },
+ {
+  "id": "orv-035",
+  "sku": "ORV-HA-135",
+  "slug": "sage-steel-garden-trowel",
+  "name": "Sage Steel Garden Trowel",
+  "description": "A sturdy, deep-scooped trowel with depth markings — handsome enough to leave out on the balcony shelf.",
+  "details": [
+   "Carbon steel, powder coated",
+   "Depth guide in cm",
+   "Hanging hole"
+  ],
+  "category": "home-accessories",
+  "subCategory": "garden-decor",
+  "productType": "Decorative Accents",
+  "material": "Metal",
+  "finish": "Powder-coated sage",
+  "dimensions": "30 cm long",
+  "weight": "0.3 kg",
+  "care": "Dust with a dry cloth. Avoid abrasive cleaners and prolonged contact with moisture.",
+  "price": 690,
+  "images": [
+   "garden-trowel",
+   "planter-shelf"
+  ],
+  "availability": true,
+  "stock": 50,
+  "rating": 4.3,
+  "reviewCount": 12,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": false,
+  "tags": [
+   "garden",
+   "gifting"
+  ],
+  "createdAt": "2026-02-16T00:00:00.000Z",
+  "salesRank": 988
+ },
+ {
+  "id": "orv-036",
+  "sku": "ORV-HA-136",
+  "slug": "topiary-planter-tall",
+  "name": "Topiary Planter, Tall",
+  "description": "A tapered, lightweight aluminium planter in deep forest green for clipped topiary, ficus and lemon trees.",
+  "details": [
+   "Weatherproof aluminium",
+   "Indoor and outdoor use",
+   "Removable drainage plug"
+  ],
+  "category": "home-accessories",
+  "subCategory": "garden-decor",
+  "productType": "Planters",
+  "material": "Aluminium",
+  "finish": "Matte forest green",
+  "dimensions": "28 cm diameter · 32 cm high",
+  "weight": "1.6 kg",
+  "care": "Wipe with a soft, damp cloth and dry immediately. Avoid abrasive pads.",
+  "price": 3190,
+  "images": [
+   "garden-topiary",
+   "planter-row"
+  ],
+  "availability": false,
+  "stock": 0,
+  "rating": 4.6,
+  "reviewCount": 7,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": false,
+  "tags": [
+   "garden",
+   "planter"
+  ],
+  "createdAt": "2026-01-10T00:00:00.000Z",
+  "salesRank": 993
+ },
+ {
+  "id": "orv-037",
+  "sku": "ORV-KB-137",
+  "slug": "sheesham-end-grain-chopping-board",
+  "name": "Sheesham End-Grain Chopping Board",
+  "description": "An end-grain board that is gentle on knife edges and heals its own cuts. Built thick and heavy so it never slides on the counter.",
+  "details": [
+   "End-grain construction",
+   "Rubber feet",
+   "Finished with food-safe mineral oil"
+  ],
+  "category": "kitchen-bar",
+  "subCategory": "chopping-boards",
+  "productType": "Serveware",
+  "material": "Wood",
+  "finish": "Food-safe mineral oil",
+  "dimensions": "40 × 28 × 3.5 cm",
+  "weight": "2.2 kg",
+  "care": "Wipe with a soft, dry cloth. Oil with food-safe mineral oil once a month. Do not soak or put in the dishwasher.",
+  "price": 1990,
+  "originalPrice": 2490,
+  "images": [
+   "board-oak-knife",
+   "boards-shelf"
+  ],
+  "availability": true,
+  "stock": 25,
+  "rating": 4.8,
+  "reviewCount": 96,
+  "isFeatured": true,
+  "isBestSeller": true,
+  "isNewArrival": false,
+  "tags": [
+   "kitchen",
+   "hosting"
+  ],
+  "createdAt": "2025-12-04T00:00:00.000Z",
+  "salesRank": -96
+ },
+ {
+  "id": "orv-038",
+  "sku": "ORV-KB-138",
+  "slug": "maple-juice-groove-board",
+  "name": "Maple Juice-Groove Board",
+  "description": "A large, light-toned board with a deep juice groove — made for carving, fruit prep and everyday chopping.",
+  "details": [
+   "Edge-grain maple",
+   "Deep juice groove",
+   "Reversible"
+  ],
+  "category": "kitchen-bar",
+  "subCategory": "chopping-boards",
+  "productType": "Serveware",
+  "material": "Wood",
+  "finish": "Natural oiled maple",
+  "dimensions": "45 × 30 × 2 cm",
+  "weight": "1.6 kg",
+  "care": "Wipe with a soft, dry cloth. Oil with food-safe mineral oil once a month. Do not soak or put in the dishwasher.",
+  "price": 1690,
+  "images": [
+   "board-maple",
+   "boards-ceramics"
+  ],
+  "availability": true,
+  "stock": 18,
+  "rating": 4.6,
+  "reviewCount": 34,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": false,
+  "tags": [
+   "kitchen"
+  ],
+  "createdAt": "2026-10-03T00:00:00.000Z",
+  "salesRank": 966
+ },
+ {
+  "id": "orv-039",
+  "sku": "ORV-KB-139",
+  "slug": "acacia-round-serving-board",
+  "name": "Acacia Round Serving Board",
+  "description": "A richly grained round board for pizzas, flatbreads and grazing spreads — straight from the counter to the table.",
+  "details": [
+   "Solid acacia",
+   "Hand-sanded edges",
+   "Doubles as a serving platter"
+  ],
+  "category": "kitchen-bar",
+  "subCategory": "chopping-boards",
+  "productType": "Serveware",
+  "material": "Wood",
+  "finish": "Natural acacia",
+  "dimensions": "35 cm diameter",
+  "weight": "1.2 kg",
+  "care": "Wipe with a soft, dry cloth. Oil with food-safe mineral oil once a month. Do not soak or put in the dishwasher.",
+  "price": 1490,
+  "images": [
+   "board-round-acacia",
+   "board-round-beech"
+  ],
+  "availability": true,
+  "stock": 22,
+  "rating": 4.7,
+  "reviewCount": 27,
+  "isFeatured": false,
+  "isBestSeller": true,
+  "isNewArrival": false,
+  "tags": [
+   "hosting",
+   "kitchen"
+  ],
+  "createdAt": "2026-08-27T00:00:00.000Z",
+  "salesRank": -27
+ },
+ {
+  "id": "orv-040",
+  "sku": "ORV-KB-140",
+  "slug": "paddle-board-with-handle",
+  "name": "Paddle Board with Handle",
+  "description": "A slim paddle board with a leather loop — for bread, cheese and herbs, and handsome hanging on a kitchen rail.",
+  "details": [
+   "Mango wood with leather hang strap",
+   "Food safe",
+   "Hand wash only"
+  ],
+  "category": "kitchen-bar",
+  "subCategory": "chopping-boards",
+  "productType": "Serveware",
+  "material": "Wood",
+  "finish": "Oiled mango wood",
+  "dimensions": "42 × 18 × 2 cm",
+  "weight": "0.9 kg",
+  "care": "Wipe with a soft, dry cloth. Oil with food-safe mineral oil once a month. Do not soak or put in the dishwasher.",
+  "price": 1290,
+  "images": [
+   "board-paddle",
+   "boards-ceramics"
+  ],
+  "availability": true,
+  "stock": 30,
+  "rating": 4.5,
+  "reviewCount": 14,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": true,
+  "tags": [
+   "hosting",
+   "kitchen"
+  ],
+  "createdAt": "2026-10-28T00:00:00.000Z",
+  "salesRank": 986
+ },
+ {
+  "id": "orv-041",
+  "sku": "ORV-KB-141",
+  "slug": "granite-khalbatta-mortar-and-pestle",
+  "name": "Granite Khalbatta Mortar & Pestle",
+  "description": "The traditional khalbatta, carved from solid granite. Heavy enough to crush whole spices, ginger and garlic in seconds.",
+  "details": [
+   "Solid granite, unpolished interior",
+   "Non-porous; will not stain",
+   "Season before first use"
+  ],
+  "category": "kitchen-bar",
+  "subCategory": "mortar-pestle",
+  "productType": "Serveware",
+  "material": "Stone",
+  "finish": "Polished black granite",
+  "dimensions": "15 cm diameter · 10 cm high",
+  "weight": "3.2 kg",
+  "care": "Rinse with water and air dry fully before storing. Season stone mortars with a handful of rice before first use.",
+  "price": 1890,
+  "images": [
+   "mortar-granite-dark",
+   "mortar-basalt"
+  ],
+  "availability": true,
+  "stock": 20,
+  "rating": 4.8,
+  "reviewCount": 81,
+  "isFeatured": false,
+  "isBestSeller": true,
+  "isNewArrival": false,
+  "tags": [
+   "kitchen",
+   "stone"
+  ],
+  "createdAt": "2026-06-14T00:00:00.000Z",
+  "salesRank": -81
+ },
+ {
+  "id": "orv-042",
+  "sku": "ORV-KB-142",
+  "slug": "olivewood-mortar-and-pestle",
+  "name": "Olivewood Mortar & Pestle",
+  "description": "A light, beautifully figured olivewood mortar for herbs, dry rubs and finishing salts at the table.",
+  "details": [
+   "Carved from a single piece",
+   "Ideal for herbs and dry spices",
+   "Hand wash only"
+  ],
+  "category": "kitchen-bar",
+  "subCategory": "mortar-pestle",
+  "productType": "Serveware",
+  "material": "Wood",
+  "finish": "Natural olivewood",
+  "dimensions": "12 cm diameter · 8 cm high",
+  "weight": "0.6 kg",
+  "care": "Wipe with a soft, dry cloth. Oil with food-safe mineral oil once a month. Do not soak or put in the dishwasher.",
+  "price": 1590,
+  "images": [
+   "mortar-olivewood",
+   "storage-spice-flatlay"
+  ],
+  "availability": true,
+  "stock": 11,
+  "rating": 4.5,
+  "reviewCount": 9,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": false,
+  "tags": [
+   "kitchen"
+  ],
+  "createdAt": "2026-05-08T00:00:00.000Z",
+  "salesRank": 991
+ },
+ {
+  "id": "orv-043",
+  "sku": "ORV-KB-143",
+  "slug": "jade-marble-mortar-and-pestle",
+  "name": "Jade Marble Mortar & Pestle",
+  "description": "Carved from soft-green Udaipur marble with a cork base. A grinding tool you’ll want to leave on the counter.",
+  "details": [
+   "Udaipur green marble",
+   "Detachable cork base",
+   "Season before first use"
+  ],
+  "category": "kitchen-bar",
+  "subCategory": "mortar-pestle",
+  "productType": "Serveware",
+  "material": "Marble",
+  "finish": "Honed green marble",
+  "dimensions": "13 cm diameter · 9 cm high",
+  "weight": "2.4 kg",
+  "care": "Wipe spills promptly with a damp cloth. Natural stone is porous; avoid acidic liquids such as lemon and vinegar.",
+  "price": 2290,
+  "images": [
+   "mortar-jade",
+   "mortar-granite-cork"
+  ],
+  "availability": true,
+  "stock": 8,
+  "rating": 4.7,
+  "reviewCount": 12,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": true,
+  "tags": [
+   "kitchen",
+   "stone"
+  ],
+  "createdAt": "2026-10-25T00:00:00.000Z",
+  "salesRank": 988
+ },
+ {
+  "id": "orv-044",
+  "sku": "ORV-KB-144",
+  "slug": "masala-dabba-spice-bowl-set",
+  "name": "Masala Dabba Spice Bowl Set",
+  "description": "The heart of every Indian kitchen, refined: seven steel katoris and a spoon nested in an airtight brushed-steel dabba.",
+  "details": [
+   "Food-grade 304 stainless steel",
+   "Airtight glass-window lid",
+   "Includes measuring spoon"
+  ],
+  "category": "kitchen-bar",
+  "subCategory": "storage",
+  "productType": "Storage",
+  "material": "Metal",
+  "finish": "Brushed stainless steel",
+  "dimensions": "22 cm diameter tin · 7 bowls",
+  "weight": "1.1 kg",
+  "care": "Dust with a dry cloth. Avoid abrasive cleaners and prolonged contact with moisture.",
+  "price": 1790,
+  "images": [
+   "storage-spices",
+   "storage-spice-flatlay"
+  ],
+  "availability": true,
+  "stock": 28,
+  "rating": 4.7,
+  "reviewCount": 64,
+  "isFeatured": false,
+  "isBestSeller": true,
+  "isNewArrival": false,
+  "tags": [
+   "kitchen",
+   "gifting"
+  ],
+  "createdAt": "2026-02-23T00:00:00.000Z",
+  "salesRank": -64
+ },
+ {
+  "id": "orv-045",
+  "sku": "ORV-KB-145",
+  "slug": "acacia-pepper-mill",
+  "name": "Acacia Pepper Mill",
+  "description": "A tall acacia mill with an adjustable ceramic burr — from coarse cracked pepper to a fine dust.",
+  "details": [
+   "Adjustable ceramic grinder",
+   "Easy top fill",
+   "Also suits rock salt"
+  ],
+  "category": "kitchen-bar",
+  "subCategory": "storage",
+  "productType": "Storage",
+  "material": "Wood",
+  "finish": "Natural acacia",
+  "dimensions": "6 cm diameter · 20 cm high",
+  "weight": "0.4 kg",
+  "care": "Wipe with a soft, dry cloth. Oil with food-safe mineral oil once a month. Do not soak or put in the dishwasher.",
+  "price": 1190,
+  "images": [
+   "storage-pepper-mill",
+   "room-kitchen-white"
+  ],
+  "availability": true,
+  "stock": 33,
+  "rating": 4.4,
+  "reviewCount": 22,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": false,
+  "tags": [
+   "kitchen"
+  ],
+  "createdAt": "2026-01-17T00:00:00.000Z",
+  "salesRank": 978
+ },
+ {
+  "id": "orv-046",
+  "sku": "ORV-KB-146",
+  "slug": "marble-vanity-tray-and-tissue-caddy",
+  "name": "Marble Vanity Tray & Tissue Caddy",
+  "description": "A polished marble tray with a weighted napkin and tissue caddy — keeps the dining table or bathroom vanity in order.",
+  "details": [
+   "White Makrana marble",
+   "Weighted lid",
+   "Felt base"
+  ],
+  "category": "kitchen-bar",
+  "subCategory": "tissue-holders",
+  "productType": "Storage",
+  "material": "Marble",
+  "finish": "Polished white marble",
+  "dimensions": "30 × 15 × 10 cm",
+  "weight": "2.0 kg",
+  "care": "Wipe spills promptly with a damp cloth. Natural stone is porous; avoid acidic liquids such as lemon and vinegar.",
+  "price": 2490,
+  "images": [
+   "tray-marble-vanity",
+   "coaster-marble"
+  ],
+  "availability": true,
+  "stock": 10,
+  "rating": 4.6,
+  "reviewCount": 11,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": false,
+  "tags": [
+   "stone",
+   "hosting"
+  ],
+  "createdAt": "2025-12-11T00:00:00.000Z",
+  "salesRank": 989
+ },
+ {
+  "id": "orv-047",
+  "sku": "ORV-KB-147",
+  "slug": "walnut-slab-trivet",
+  "name": "Walnut Slab Trivet",
+  "description": "A dense walnut slab that shows off its growth rings and protects your table from hot kadhais and casseroles.",
+  "details": [
+   "Heat resistant to 200°C",
+   "Non-slip cork underside",
+   "Hand wash only"
+  ],
+  "category": "kitchen-bar",
+  "subCategory": "trivets",
+  "productType": "Serveware",
+  "material": "Wood",
+  "finish": "Oiled walnut",
+  "dimensions": "20 × 20 × 2 cm",
+  "weight": "0.5 kg",
+  "care": "Wipe with a soft, dry cloth. Oil with food-safe mineral oil once a month. Do not soak or put in the dishwasher.",
+  "price": 990,
+  "images": [
+   "trivet-walnut",
+   "board-round-beech"
+  ],
+  "availability": true,
+  "stock": 26,
+  "rating": 4.5,
+  "reviewCount": 17,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": false,
+  "tags": [
+   "kitchen",
+   "hosting"
+  ],
+  "createdAt": "2026-10-10T00:00:00.000Z",
+  "salesRank": 983
+ },
+ {
+  "id": "orv-048",
+  "sku": "ORV-KB-148",
+  "slug": "mango-wood-serving-bowls-pair",
+  "name": "Mango Wood Serving Bowls, Pair",
+  "description": "Hand-turned bowls for salads, smoothie bowls and dry snacks. Lightweight, warm to hold, and unbreakable.",
+  "details": [
+   "Hand-turned mango wood",
+   "Food-safe lacquer",
+   "Set of two"
+  ],
+  "category": "kitchen-bar",
+  "subCategory": "bowls",
+  "productType": "Decorative Bowls",
+  "material": "Wood",
+  "finish": "Food-safe lacquer",
+  "dimensions": "18 cm diameter · 7 cm high",
+  "weight": "0.8 kg",
+  "care": "Wipe with a soft, dry cloth. Oil with food-safe mineral oil once a month. Do not soak or put in the dishwasher.",
+  "price": 1390,
+  "images": [
+   "bowls-wood",
+   "boards-shelf"
+  ],
+  "availability": true,
+  "stock": 19,
+  "rating": 4.6,
+  "reviewCount": 25,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": false,
+  "tags": [
+   "hosting",
+   "kitchen"
+  ],
+  "createdAt": "2026-09-03T00:00:00.000Z",
+  "salesRank": 975
+ },
+ {
+  "id": "orv-049",
+  "sku": "ORV-KB-149",
+  "slug": "indigo-pattern-ceramic-bowls-set-of-4",
+  "name": "Indigo Pattern Ceramic Bowls, Set of 4",
+  "description": "Stackable bowls with a hand-stamped geometric band, inspired by Jaipur blue pottery. Sized for dal, raita and desserts.",
+  "details": [
+   "Stoneware with lead-free glaze",
+   "Stackable",
+   "Set of four"
+  ],
+  "category": "kitchen-bar",
+  "subCategory": "bowls",
+  "productType": "Decorative Bowls",
+  "material": "Ceramic",
+  "finish": "Hand-stamped blue glaze",
+  "dimensions": "14 cm diameter · 6 cm high",
+  "weight": "1.4 kg",
+  "care": "Hand wash recommended to preserve the glaze. Microwave and dishwasher use is not advised for hand-glazed pieces.",
+  "price": 1690,
+  "images": [
+   "bowls-pattern",
+   "cups-speckled"
+  ],
+  "availability": true,
+  "stock": 23,
+  "rating": 4.7,
+  "reviewCount": 30,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": true,
+  "tags": [
+   "kitchen"
+  ],
+  "createdAt": "2026-10-28T00:00:00.000Z",
+  "salesRank": 970
+ },
+ {
+  "id": "orv-050",
+  "sku": "ORV-KB-150",
+  "slug": "teak-butler-tray-with-iron-handles",
+  "name": "Teak Butler Tray with Iron Handles",
+  "description": "A deep-sided reclaimed teak tray with forged iron handles — for morning chai in bed or carrying drinks to the balcony.",
+  "details": [
+   "Reclaimed teak",
+   "Hand-forged iron handles",
+   "Sealed against spills"
+  ],
+  "category": "kitchen-bar",
+  "subCategory": "trays",
+  "productType": "Trays",
+  "material": "Wood",
+  "finish": "Reclaimed teak, black iron",
+  "dimensions": "50 × 32 × 7 cm",
+  "weight": "2.1 kg",
+  "care": "Wipe with a soft, dry cloth. Oil with food-safe mineral oil once a month. Do not soak or put in the dishwasher.",
+  "price": 2690,
+  "images": [
+   "tray-wood-handles",
+   "tray-tea-service"
+  ],
+  "availability": true,
+  "stock": 15,
+  "rating": 4.8,
+  "reviewCount": 49,
+  "isFeatured": true,
+  "isBestSeller": true,
+  "isNewArrival": false,
+  "tags": [
+   "hosting"
+  ],
+  "createdAt": "2026-06-21T00:00:00.000Z",
+  "salesRank": -49
+ },
+ {
+  "id": "orv-051",
+  "sku": "ORV-KB-151",
+  "slug": "etched-silver-serving-tray",
+  "name": "Etched Silver Serving Tray",
+  "description": "An ornately etched, silver-plated tray for serving mithai and sherbet to guests — festive hospitality at its finest.",
+  "details": [
+   "Hand-etched floral pattern",
+   "Raised gallery edge",
+   "Tarnish-resistant lacquer"
+  ],
+  "category": "kitchen-bar",
+  "subCategory": "trays",
+  "productType": "Trays",
+  "material": "Aluminium",
+  "finish": "Silver-plated, hand etched",
+  "dimensions": "45 × 30 cm",
+  "weight": "1.3 kg",
+  "care": "Wipe with a soft, damp cloth and dry immediately. Avoid abrasive pads.",
+  "price": 3290,
+  "images": [
+   "tray-silver-etched",
+   "tray-tea-service"
+  ],
+  "availability": true,
+  "stock": 7,
+  "rating": 4.6,
+  "reviewCount": 18,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": false,
+  "tags": [
+   "hosting",
+   "festive",
+   "heritage"
+  ],
+  "createdAt": "2026-05-15T00:00:00.000Z",
+  "salesRank": 982
+ },
+ {
+  "id": "orv-052",
+  "sku": "ORV-KB-152",
+  "slug": "twin-teak-oval-trays",
+  "name": "Twin Teak Oval Trays",
+  "description": "Two long, carved teak trays for canapés, sushi or a line of tealights down the dining table.",
+  "details": [
+   "Carved solid teak",
+   "Food safe",
+   "Set of two sizes"
+  ],
+  "category": "kitchen-bar",
+  "subCategory": "trays",
+  "productType": "Trays",
+  "material": "Wood",
+  "finish": "Natural teak",
+  "dimensions": "50 × 15 cm and 40 × 12 cm",
+  "weight": "1.2 kg",
+  "care": "Wipe with a soft, dry cloth. Oil with food-safe mineral oil once a month. Do not soak or put in the dishwasher.",
+  "price": 1890,
+  "images": [
+   "tray-teak-oval",
+   "tray-dip-set"
+  ],
+  "availability": true,
+  "stock": 21,
+  "rating": 4.5,
+  "reviewCount": 10,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": true,
+  "tags": [
+   "hosting"
+  ],
+  "createdAt": "2026-10-25T00:00:00.000Z",
+  "salesRank": 990
+ },
+ {
+  "id": "orv-053",
+  "sku": "ORV-KB-153",
+  "slug": "mint-lacquer-tea-tray",
+  "name": "Mint Lacquer Tea Tray",
+  "description": "A retro-inspired tray in powder mint with a fine gold rim — the prettiest way to serve evening chai and biscuits.",
+  "details": [
+   "Lacquered steel",
+   "Gold-painted rim",
+   "Wipe clean"
+  ],
+  "category": "kitchen-bar",
+  "subCategory": "trays",
+  "productType": "Trays",
+  "material": "Metal",
+  "finish": "Mint lacquer, gold rim",
+  "dimensions": "40 × 26 cm",
+  "weight": "0.8 kg",
+  "care": "Dust with a dry cloth. Avoid abrasive cleaners and prolonged contact with moisture.",
+  "price": 1590,
+  "images": [
+   "tray-mint-gold",
+   "tray-tea-service"
+  ],
+  "availability": false,
+  "stock": 0,
+  "rating": 4.4,
+  "reviewCount": 13,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": false,
+  "tags": [
+   "hosting",
+   "gifting"
+  ],
+  "createdAt": "2026-03-02T00:00:00.000Z",
+  "salesRank": 987
+ },
+ {
+  "id": "orv-054",
+  "sku": "ORV-KB-154",
+  "slug": "ocean-glaze-dinner-plates-set-of-4",
+  "name": "Ocean Glaze Dinner Plates, Set of 4",
+  "description": "Reactive-glaze stoneware plates in a soft ocean blue, each with its own pooling and flow. Dinner, every day, made special.",
+  "details": [
+   "Microwave safe",
+   "Lead-free glaze",
+   "Set of four"
+  ],
+  "category": "kitchen-bar",
+  "subCategory": "plates-platters",
+  "productType": "Serveware",
+  "material": "Ceramic",
+  "finish": "Reactive blue glaze",
+  "dimensions": "27 cm diameter",
+  "weight": "3.2 kg",
+  "care": "Hand wash recommended to preserve the glaze. Microwave and dishwasher use is not advised for hand-glazed pieces.",
+  "price": 2490,
+  "images": [
+   "plates-blue",
+   "table-setting"
+  ],
+  "availability": true,
+  "stock": 16,
+  "rating": 4.7,
+  "reviewCount": 42,
+  "isFeatured": false,
+  "isBestSeller": true,
+  "isNewArrival": false,
+  "tags": [
+   "hosting",
+   "kitchen"
+  ],
+  "createdAt": "2026-01-24T00:00:00.000Z",
+  "salesRank": -42
+ },
+ {
+  "id": "orv-055",
+  "sku": "ORV-KB-155",
+  "slug": "acacia-and-slate-cheese-platter",
+  "name": "Acacia & Slate Cheese Platter",
+  "description": "An acacia platter with an inset slate panel you can write on with chalk — label cheeses, chutneys and accompaniments.",
+  "details": [
+   "Removable slate insert",
+   "Chalk included",
+   "Hand wash only"
+  ],
+  "category": "kitchen-bar",
+  "subCategory": "plates-platters",
+  "productType": "Serveware",
+  "material": "Wood",
+  "finish": "Acacia with slate insert",
+  "dimensions": "40 × 25 cm",
+  "weight": "1.9 kg",
+  "care": "Wipe with a soft, dry cloth. Oil with food-safe mineral oil once a month. Do not soak or put in the dishwasher.",
+  "price": 2190,
+  "images": [
+   "platter-cheese",
+   "boards-ceramics"
+  ],
+  "availability": true,
+  "stock": 13,
+  "rating": 4.6,
+  "reviewCount": 20,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": false,
+  "tags": [
+   "hosting"
+  ],
+  "createdAt": "2025-12-18T00:00:00.000Z",
+  "salesRank": 980
+ },
+ {
+  "id": "orv-056",
+  "sku": "ORV-KB-156",
+  "slug": "speckled-stoneware-cups-set-of-4",
+  "name": "Speckled Stoneware Cups, Set of 4",
+  "description": "Handle-free cups with a raw, dipped foot — perfect for cutting chai, filter coffee or a small serving of kheer.",
+  "details": [
+   "Wheel-thrown stoneware",
+   "Microwave safe",
+   "Set of four"
+  ],
+  "category": "kitchen-bar",
+  "subCategory": "plates-platters",
+  "productType": "Serveware",
+  "material": "Ceramic",
+  "finish": "Speckled sand glaze",
+  "dimensions": "8 cm diameter · 7 cm high (180 ml)",
+  "weight": "1.0 kg",
+  "care": "Hand wash recommended to preserve the glaze. Microwave and dishwasher use is not advised for hand-glazed pieces.",
+  "price": 1490,
+  "images": [
+   "cups-speckled",
+   "boards-ceramics"
+  ],
+  "availability": true,
+  "stock": 29,
+  "rating": 4.6,
+  "reviewCount": 36,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": false,
+  "tags": [
+   "kitchen",
+   "gifting"
+  ],
+  "createdAt": "2025-11-11T00:00:00.000Z",
+  "salesRank": 964
+ },
+ {
+  "id": "orv-057",
+  "sku": "ORV-KB-157",
+  "slug": "dip-bowls-on-teak-tray",
+  "name": "Dip Bowls on Teak Tray",
+  "description": "Three ceramic dip bowls on a slim teak tray — chutneys, pickles and dips, arranged with care.",
+  "details": [
+   "Removable ceramic bowls",
+   "Teak tray",
+   "Set of four pieces"
+  ],
+  "category": "kitchen-bar",
+  "subCategory": "plates-platters",
+  "productType": "Serveware",
+  "material": "Ceramic",
+  "finish": "Matte sand glaze, teak",
+  "dimensions": "36 × 12 cm tray · 3 bowls",
+  "weight": "1.1 kg",
+  "care": "Hand wash recommended to preserve the glaze. Microwave and dishwasher use is not advised for hand-glazed pieces.",
+  "price": 1290,
+  "images": [
+   "tray-dip-set",
+   "tray-teak-oval"
+  ],
+  "availability": true,
+  "stock": 24,
+  "rating": 4.5,
+  "reviewCount": 15,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": false,
+  "tags": [
+   "hosting"
+  ],
+  "createdAt": "2026-09-10T00:00:00.000Z",
+  "salesRank": 985
+ },
+ {
+  "id": "orv-058",
+  "sku": "ORV-KB-158",
+  "slug": "celadon-tea-service",
+  "name": "Celadon Tea Service",
+  "description": "A tall pitcher and four cups in a translucent celadon glaze, for green tea, kahwa or chilled nimbu paani.",
+  "details": [
+   "Hand-thrown stoneware",
+   "Lead-free glaze",
+   "Five-piece set"
+  ],
+  "category": "kitchen-bar",
+  "subCategory": "plates-platters",
+  "productType": "Serveware",
+  "material": "Ceramic",
+  "finish": "Celadon green glaze",
+  "dimensions": "Pitcher 900 ml · 4 cups",
+  "weight": "1.6 kg",
+  "care": "Hand wash recommended to preserve the glaze. Microwave and dishwasher use is not advised for hand-glazed pieces.",
+  "price": 2990,
+  "images": [
+   "serve-sake",
+   "cups-speckled"
+  ],
+  "availability": true,
+  "stock": 6,
+  "rating": 4.8,
+  "reviewCount": 9,
+  "isFeatured": true,
+  "isBestSeller": false,
+  "isNewArrival": false,
+  "tags": [
+   "hosting",
+   "gifting"
+  ],
+  "createdAt": "2026-08-04T00:00:00.000Z",
+  "salesRank": 991
+ },
+ {
+  "id": "orv-059",
+  "sku": "ORV-KB-159",
+  "slug": "white-marble-coasters-set-of-4",
+  "name": "White Marble Coasters, Set of 4",
+  "description": "Cool, weighty coasters in honed Makrana marble with cork backing — a small luxury on every side table.",
+  "details": [
+   "Makrana marble",
+   "Cork-backed",
+   "Set of four"
+  ],
+  "category": "kitchen-bar",
+  "subCategory": "coasters",
+  "productType": "Coasters",
+  "material": "Marble",
+  "finish": "Honed white marble",
+  "dimensions": "10 cm diameter",
+  "weight": "1.2 kg",
+  "care": "Wipe spills promptly with a damp cloth. Natural stone is porous; avoid acidic liquids such as lemon and vinegar.",
+  "price": 1190,
+  "images": [
+   "coaster-marble",
+   "tray-marble-vanity"
+  ],
+  "availability": true,
+  "stock": 38,
+  "rating": 4.8,
+  "reviewCount": 77,
+  "isFeatured": true,
+  "isBestSeller": true,
+  "isNewArrival": false,
+  "tags": [
+   "stone",
+   "hosting",
+   "gifting"
+  ],
+  "createdAt": "2026-06-28T00:00:00.000Z",
+  "salesRank": -77
+ },
+ {
+  "id": "orv-060",
+  "sku": "ORV-KB-160",
+  "slug": "acacia-coasters-with-caddy",
+  "name": "Acacia Coasters with Caddy",
+  "description": "Six round acacia coasters that stack neatly into an iron caddy — tidy enough to leave out on the coffee table.",
+  "details": [
+   "Solid acacia",
+   "Powder-coated iron caddy",
+   "Set of six"
+  ],
+  "category": "kitchen-bar",
+  "subCategory": "coasters",
+  "productType": "Coasters",
+  "material": "Wood",
+  "finish": "Natural acacia, black iron",
+  "dimensions": "10 cm diameter · 6 coasters",
+  "weight": "0.6 kg",
+  "care": "Wipe with a soft, dry cloth. Oil with food-safe mineral oil once a month. Do not soak or put in the dishwasher.",
+  "price": 890,
+  "images": [
+   "coaster-wood-caddy",
+   "board-round-acacia"
+  ],
+  "availability": true,
+  "stock": 34,
+  "rating": 4.5,
+  "reviewCount": 24,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": false,
+  "tags": [
+   "hosting"
+  ],
+  "createdAt": "2026-05-22T00:00:00.000Z",
+  "salesRank": 976
+ },
+ {
+  "id": "orv-061",
+  "sku": "ORV-KB-161",
+  "slug": "footed-glass-cake-stand",
+  "name": "Footed Glass Cake Stand",
+  "description": "A classic pressed-glass cake stand with a gently scalloped rim, for birthday cakes, tea cakes and festive mithai.",
+  "details": [
+   "Heavy pressed glass",
+   "Dishwasher safe",
+   "Holds cakes up to 25 cm"
+  ],
+  "category": "kitchen-bar",
+  "subCategory": "cake-stands",
+  "productType": "Serveware",
+  "material": "Glass",
+  "finish": "Clear pressed glass",
+  "dimensions": "28 cm diameter · 14 cm high",
+  "weight": "1.9 kg",
+  "care": "Hand wash in warm, soapy water and dry with a lint-free cloth.",
+  "price": 1990,
+  "images": [
+   "cakestand-glass",
+   "cakestand-ivory"
+  ],
+  "availability": true,
+  "stock": 12,
+  "rating": 4.7,
+  "reviewCount": 28,
+  "isFeatured": false,
+  "isBestSeller": true,
+  "isNewArrival": false,
+  "tags": [
+   "hosting",
+   "festive"
+  ],
+  "createdAt": "2026-04-15T00:00:00.000Z",
+  "salesRank": -28
+ },
+ {
+  "id": "orv-062",
+  "sku": "ORV-KB-162",
+  "slug": "ivory-ceramic-cake-stand",
+  "name": "Ivory Ceramic Cake Stand",
+  "description": "A softly curved ivory cake stand that doubles as a fruit display on a sideboard between celebrations.",
+  "details": [
+   "Glazed stoneware",
+   "Food safe",
+   "Hand wash recommended"
+  ],
+  "category": "kitchen-bar",
+  "subCategory": "cake-stands",
+  "productType": "Serveware",
+  "material": "Ceramic",
+  "finish": "Gloss ivory glaze",
+  "dimensions": "26 cm diameter · 12 cm high",
+  "weight": "1.4 kg",
+  "care": "Hand wash recommended to preserve the glaze. Microwave and dishwasher use is not advised for hand-glazed pieces.",
+  "price": 1690,
+  "images": [
+   "cakestand-ivory",
+   "table-setting"
+  ],
+  "availability": true,
+  "stock": 15,
+  "rating": 4.6,
+  "reviewCount": 14,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": false,
+  "tags": [
+   "hosting"
+  ],
+  "createdAt": "2026-03-09T00:00:00.000Z",
+  "salesRank": 986
+ },
+ {
+  "id": "orv-063",
+  "sku": "ORV-KB-163",
+  "slug": "gold-rim-two-tier-stand",
+  "name": "Gold-Rim Two-Tier Stand",
+  "description": "A two-tier stand for high tea, wedding sweets and dessert tables, finished in a soft champagne gold.",
+  "details": [
+   "Plated steel frame",
+   "Removable tiers for storage",
+   "Food-safe coating"
+  ],
+  "category": "kitchen-bar",
+  "subCategory": "cake-stands",
+  "productType": "Serveware",
+  "material": "Metal",
+  "finish": "Champagne gold",
+  "dimensions": "30 and 22 cm tiers · 38 cm high",
+  "weight": "1.7 kg",
+  "care": "Dust with a dry cloth. Avoid abrasive cleaners and prolonged contact with moisture.",
+  "price": 2790,
+  "images": [
+   "cakestand-tier",
+   "cakestand-glass"
+  ],
+  "availability": false,
+  "stock": 0,
+  "rating": 4.5,
+  "reviewCount": 8,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": false,
+  "tags": [
+   "hosting",
+   "festive"
+  ],
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "salesRank": 992
+ },
+ {
+  "id": "orv-064",
+  "sku": "ORV-KB-164",
+  "slug": "teak-handle-bottle-opener",
+  "name": "Teak-Handle Bottle Opener",
+  "description": "A sturdy brushed-steel opener with a smooth teak handle — the satisfying pop, every time.",
+  "details": [
+   "Stainless steel head",
+   "Solid teak handle",
+   "Hanging loop"
+  ],
+  "category": "kitchen-bar",
+  "subCategory": "bottle-openers",
+  "productType": "Bar Accessories",
+  "material": "Metal",
+  "finish": "Brushed steel, teak handle",
+  "dimensions": "16 cm long",
+  "weight": "0.15 kg",
+  "care": "Dust with a dry cloth. Avoid abrasive cleaners and prolonged contact with moisture.",
+  "price": 590,
+  "images": [
+   "opener-wood",
+   "bar-highball"
+  ],
+  "availability": true,
+  "stock": 60,
+  "rating": 4.4,
+  "reviewCount": 19,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": false,
+  "tags": [
+   "bar",
+   "gifting"
+  ],
+  "createdAt": "2025-12-25T00:00:00.000Z",
+  "salesRank": 981
+ },
+ {
+  "id": "orv-065",
+  "sku": "ORV-KB-165",
+  "slug": "cast-iron-wall-bottle-opener",
+  "name": "Cast Iron Wall Bottle Opener",
+  "description": "A wall-mounted, cast-iron opener with a quirky embossed face. Fix it beside the bar cart and never hunt for an opener again.",
+  "details": [
+   "Cast iron with pewter finish",
+   "Screws included",
+   "Indoor use"
+  ],
+  "category": "kitchen-bar",
+  "subCategory": "bottle-openers",
+  "productType": "Bar Accessories",
+  "material": "Metal",
+  "finish": "Antique pewter",
+  "dimensions": "9 cm diameter",
+  "weight": "0.4 kg",
+  "care": "Dust with a dry cloth. Avoid abrasive cleaners and prolonged contact with moisture.",
+  "price": 790,
+  "images": [
+   "opener-iron",
+   "bar-pour"
+  ],
+  "availability": true,
+  "stock": 17,
+  "rating": 4.3,
+  "reviewCount": 6,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": false,
+  "tags": [
+   "bar"
+  ],
+  "createdAt": "2025-11-18T00:00:00.000Z",
+  "salesRank": 994
+ },
+ {
+  "id": "orv-066",
+  "sku": "ORV-KB-166",
+  "slug": "crystal-bordeaux-glasses-pair",
+  "name": "Crystal Bordeaux Glasses, Pair",
+  "description": "Generous, thin-rimmed Bordeaux glasses that let a Nashik red breathe. Mouth-blown and surprisingly durable.",
+  "details": [
+   "Lead-free crystal",
+   "Laser-cut rim",
+   "Set of two"
+  ],
+  "category": "kitchen-bar",
+  "subCategory": "wine-accessories",
+  "productType": "Bar Accessories",
+  "material": "Glass",
+  "finish": "Lead-free crystal",
+  "dimensions": "650 ml · 24 cm high",
+  "weight": "0.5 kg",
+  "care": "Hand wash in warm, soapy water and dry with a lint-free cloth.",
+  "price": 1890,
+  "images": [
+   "wine-pour",
+   "wine-grapes"
+  ],
+  "availability": true,
+  "stock": 20,
+  "rating": 4.7,
+  "reviewCount": 33,
+  "isFeatured": false,
+  "isBestSeller": true,
+  "isNewArrival": false,
+  "tags": [
+   "bar",
+   "hosting",
+   "gifting"
+  ],
+  "createdAt": "2026-09-17T00:00:00.000Z",
+  "salesRank": -33
+ },
+ {
+  "id": "orv-067",
+  "sku": "ORV-KB-167",
+  "slug": "white-wine-glasses-pair",
+  "name": "White Wine Glasses, Pair",
+  "description": "A tulip-shaped bowl to keep whites and rosés cool and aromatic — fine enough for celebrations, sturdy enough for Tuesdays.",
+  "details": [
+   "Lead-free crystal",
+   "Dishwasher safe",
+   "Set of two"
+  ],
+  "category": "kitchen-bar",
+  "subCategory": "wine-accessories",
+  "productType": "Bar Accessories",
+  "material": "Glass",
+  "finish": "Lead-free crystal",
+  "dimensions": "420 ml · 21 cm high",
+  "weight": "0.4 kg",
+  "care": "Hand wash in warm, soapy water and dry with a lint-free cloth.",
+  "price": 1790,
+  "images": [
+   "wine-white",
+   "wine-vineyard"
+  ],
+  "availability": true,
+  "stock": 18,
+  "rating": 4.6,
+  "reviewCount": 15,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": false,
+  "tags": [
+   "bar",
+   "hosting"
+  ],
+  "createdAt": "2026-08-11T00:00:00.000Z",
+  "salesRank": 985
+ },
+ {
+  "id": "orv-068",
+  "sku": "ORV-KB-168",
+  "slug": "sheesham-wall-wine-rack",
+  "name": "Sheesham Wall Wine Rack",
+  "description": "A wall-mounted rack that stores twelve bottles on their side, with a slot rail beneath for hanging stemware.",
+  "details": [
+   "Solid sheesham",
+   "Holds 12 bottles + 6 glasses",
+   "Wall fixings included"
+  ],
+  "category": "kitchen-bar",
+  "subCategory": "wine-accessories",
+  "productType": "Bar Accessories",
+  "material": "Wood",
+  "finish": "Dark sheesham",
+  "dimensions": "60 × 15 × 45 cm · 12 bottles",
+  "weight": "4.6 kg",
+  "care": "Wipe with a soft, dry cloth. Oil with food-safe mineral oil once a month. Do not soak or put in the dishwasher.",
+  "price": 4490,
+  "images": [
+   "wine-cellar",
+   "wine-grapes"
+  ],
+  "availability": true,
+  "stock": 5,
+  "rating": 4.7,
+  "reviewCount": 11,
+  "isFeatured": true,
+  "isBestSeller": false,
+  "isNewArrival": false,
+  "tags": [
+   "bar"
+  ],
+  "createdAt": "2026-07-05T00:00:00.000Z",
+  "salesRank": 989
+ },
+ {
+  "id": "orv-069",
+  "sku": "ORV-KB-169",
+  "slug": "hammered-whisky-tumblers-pair",
+  "name": "Hammered Whisky Tumblers, Pair",
+  "description": "Heavy-bottomed tumblers with a hand-hammered texture that catches the light — for single malts and old fashioneds.",
+  "details": [
+   "Heavy sham base",
+   "Mouth-blown",
+   "Set of two"
+  ],
+  "category": "kitchen-bar",
+  "subCategory": "wine-accessories",
+  "productType": "Bar Accessories",
+  "material": "Glass",
+  "finish": "Hammered clear glass",
+  "dimensions": "300 ml · 9 cm high",
+  "weight": "0.7 kg",
+  "care": "Hand wash in warm, soapy water and dry with a lint-free cloth.",
+  "price": 1590,
+  "images": [
+   "bar-tumbler",
+   "bar-pour"
+  ],
+  "availability": true,
+  "stock": 26,
+  "rating": 4.8,
+  "reviewCount": 40,
+  "isFeatured": false,
+  "isBestSeller": true,
+  "isNewArrival": false,
+  "tags": [
+   "bar",
+   "gifting"
+  ],
+  "createdAt": "2026-05-29T00:00:00.000Z",
+  "salesRank": -40
+ },
+ {
+  "id": "orv-070",
+  "sku": "ORV-KB-170",
+  "slug": "ribbed-highball-glasses-set-of-4",
+  "name": "Ribbed Highball Glasses, Set of 4",
+  "description": "Fluted highballs for mojitos, jaljeera spritzes and tall glasses of iced coffee.",
+  "details": [
+   "Ribbed glass",
+   "Dishwasher safe",
+   "Set of four"
+  ],
+  "category": "kitchen-bar",
+  "subCategory": "wine-accessories",
+  "productType": "Bar Accessories",
+  "material": "Glass",
+  "finish": "Fluted clear glass",
+  "dimensions": "400 ml · 14 cm high",
+  "weight": "1.2 kg",
+  "care": "Hand wash in warm, soapy water and dry with a lint-free cloth.",
+  "price": 1390,
+  "images": [
+   "bar-highball",
+   "bar-pour"
+  ],
+  "availability": true,
+  "stock": 31,
+  "rating": 4.5,
+  "reviewCount": 21,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": true,
+  "tags": [
+   "bar",
+   "hosting"
+  ],
+  "createdAt": "2026-10-25T00:00:00.000Z",
+  "salesRank": 979
+ },
+ {
+  "id": "orv-071",
+  "sku": "ORV-GF-171",
+  "slug": "festive-brass-gift-box",
+  "name": "Festive Brass Gift Box",
+  "description": "Our hand-beaten brass urli, a pair of brass tealight holders and a Mogra soy candle, boxed in matte black with gold ribbon.",
+  "details": [
+   "Includes handwritten note card",
+   "Gift-wrapped in our studio",
+   "Ships in 2 business days"
+  ],
+  "category": "gifting",
+  "subCategory": "gift-boxes",
+  "productType": "Gift Sets",
+  "material": "Brass",
+  "finish": "Black box, gold ribbon",
+  "dimensions": "32 × 32 × 12 cm box",
+  "weight": "2.4 kg",
+  "care": "Brass develops a soft patina over time. To restore shine, polish with a paste of lemon and salt, rinse, and dry thoroughly.",
+  "price": 3990,
+  "originalPrice": 4690,
+  "images": [
+   "gift-black-gold",
+   "brass-bowl-dark"
+  ],
+  "availability": true,
+  "stock": 14,
+  "rating": 4.9,
+  "reviewCount": 37,
+  "isFeatured": true,
+  "isBestSeller": true,
+  "isNewArrival": false,
+  "tags": [
+   "festive",
+   "brass",
+   "gifting"
+  ],
+  "createdAt": "2026-03-16T00:00:00.000Z",
+  "salesRank": -37
+ },
+ {
+  "id": "orv-072",
+  "sku": "ORV-GF-172",
+  "slug": "kitchen-edit-gift-hamper",
+  "name": "Kitchen Edit Gift Hamper",
+  "description": "For the cook in your life: our end-grain chopping board, acacia pepper mill, and granite mortar & pestle in a kraft hamper.",
+  "details": [
+   "Three full-size products",
+   "Includes care booklet",
+   "Personalised note available at checkout"
+  ],
+  "category": "gifting",
+  "subCategory": "gift-boxes",
+  "productType": "Gift Sets",
+  "material": "Wood",
+  "finish": "Kraft box, twine",
+  "dimensions": "45 × 32 × 12 cm box",
+  "weight": "3.4 kg",
+  "care": "Wipe with a soft, dry cloth. Oil with food-safe mineral oil once a month. Do not soak or put in the dishwasher.",
+  "price": 4490,
+  "originalPrice": 5190,
+  "images": [
+   "gift-kraft-hands",
+   "board-oak-knife"
+  ],
+  "availability": true,
+  "stock": 9,
+  "rating": 4.8,
+  "reviewCount": 18,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": true,
+  "tags": [
+   "gifting",
+   "kitchen",
+   "housewarming"
+  ],
+  "createdAt": "2026-10-23T00:00:00.000Z",
+  "salesRank": 982
+ },
+ {
+  "id": "orv-073",
+  "sku": "ORV-GF-173",
+  "slug": "diwali-glow-gift-box",
+  "name": "Diwali Glow Gift Box",
+  "description": "Our amber soy candle trio and smoked glass votives, nested in a kraft box with dried florals — light for the festival of lights.",
+  "details": [
+   "Five pieces",
+   "Hand-tied with dried flowers",
+   "Ships in 2 business days"
+  ],
+  "category": "gifting",
+  "subCategory": "gift-boxes",
+  "productType": "Gift Sets",
+  "material": "Glass",
+  "finish": "Kraft box, dried florals",
+  "dimensions": "30 × 22 × 10 cm box",
+  "weight": "1.6 kg",
+  "care": "Hand wash in warm, soapy water and dry with a lint-free cloth.",
+  "price": 2990,
+  "images": [
+   "gift-kraft-floral",
+   "candle-amber-jars"
+  ],
+  "availability": true,
+  "stock": 25,
+  "rating": 4.7,
+  "reviewCount": 44,
+  "isFeatured": true,
+  "isBestSeller": true,
+  "isNewArrival": false,
+  "tags": [
+   "festive",
+   "gifting",
+   "candlelight"
+  ],
+  "createdAt": "2026-01-01T00:00:00.000Z",
+  "salesRank": -44
+ },
+ {
+  "id": "orv-074",
+  "sku": "ORV-GF-174",
+  "slug": "pink-and-gold-celebration-box",
+  "name": "Pink & Gold Celebration Box",
+  "description": "A joyful box for birthdays and bridal showers: marble coasters and a twin bud vase set, wrapped in blush and gold.",
+  "details": [
+   "Two products",
+   "Gift message card",
+   "Wrapped by hand"
+  ],
+  "category": "gifting",
+  "subCategory": "decorative-gifts",
+  "productType": "Gift Sets",
+  "material": "Marble",
+  "finish": "Pink box, gold satin ribbon",
+  "dimensions": "24 × 24 × 10 cm box",
+  "weight": "1.6 kg",
+  "care": "Wipe spills promptly with a damp cloth. Natural stone is porous; avoid acidic liquids such as lemon and vinegar.",
+  "price": 2490,
+  "images": [
+   "gift-pink-gold",
+   "coaster-marble"
+  ],
+  "availability": true,
+  "stock": 16,
+  "rating": 4.6,
+  "reviewCount": 12,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": false,
+  "tags": [
+   "gifting",
+   "wedding"
+  ],
+  "createdAt": "2025-11-25T00:00:00.000Z",
+  "salesRank": 988
+ },
+ {
+  "id": "orv-075",
+  "sku": "ORV-GF-175",
+  "slug": "housewarming-bonsai-gift",
+  "name": "Housewarming Bonsai Gift",
+  "description": "A bonsai tray planter, a sage garden trowel and a care guide — a living gift for a new home. (Plant not included.)",
+  "details": [
+   "Three pieces",
+   "Bonsai care guide",
+   "Wrapped by hand"
+  ],
+  "category": "gifting",
+  "subCategory": "decorative-gifts",
+  "productType": "Gift Sets",
+  "material": "Ceramic",
+  "finish": "Kraft wrap, satin ribbon",
+  "dimensions": "28 × 20 × 12 cm box",
+  "weight": "1.4 kg",
+  "care": "Hand wash recommended to preserve the glaze. Microwave and dishwasher use is not advised for hand-glazed pieces.",
+  "price": 2290,
+  "images": [
+   "gift-kraft-ribbon",
+   "planter-bonsai"
+  ],
+  "availability": true,
+  "stock": 11,
+  "rating": 4.7,
+  "reviewCount": 16,
+  "isFeatured": false,
+  "isBestSeller": false,
+  "isNewArrival": true,
+  "tags": [
+   "gifting",
+   "housewarming",
+   "planter"
+  ],
+  "createdAt": "2026-10-29T00:00:00.000Z",
+  "salesRank": 984
+ },
+ {
+  "id": "orv-076",
+  "sku": "ORV-GF-176",
+  "slug": "the-connoisseur-bar-collection",
+  "name": "The Connoisseur Bar Collection",
+  "description": "Hammered whisky tumblers, marble coasters and a teak-handle bottle opener in a lacquered red presentation box.",
+  "details": [
+   "Premium rigid box",
+   "Personalised note card",
+   "Corporate gifting available"
+  ],
+  "category": "gifting",
+  "subCategory": "premium-gift-collections",
+  "productType": "Gift Sets",
+  "material": "Glass",
+  "finish": "Red box, ivory ribbon",
+  "dimensions": "36 × 28 × 14 cm box",
+  "weight": "2.6 kg",
+  "care": "Hand wash in warm, soapy water and dry with a lint-free cloth.",
+  "price": 5490,
+  "originalPrice": 6290,
+  "images": [
+   "gift-red",
+   "bar-tumbler"
+  ],
+  "availability": true,
+  "stock": 7,
+  "rating": 4.9,
+  "reviewCount": 21,
+  "isFeatured": true,
+  "isBestSeller": false,
+  "isNewArrival": false,
+  "tags": [
+   "gifting",
+   "bar",
+   "festive",
+   "wedding"
+  ],
+  "createdAt": "2026-08-18T00:00:00.000Z",
+  "salesRank": 979
+ },
+ {
+  "id": "orv-077",
+  "sku": "ORV-GF-177",
+  "slug": "heirloom-brass-and-marble-collection",
+  "name": "Heirloom Brass & Marble Collection",
+  "description": "Our finest pieces in one presentation box: hand-beaten brass urli, marble pedestal bowl and a pair of brass candlesticks.",
+  "details": [
+   "Four heirloom pieces",
+   "Certificate of craft",
+   "White-glove delivery in metro cities"
+  ],
+  "category": "gifting",
+  "subCategory": "premium-gift-collections",
+  "productType": "Gift Sets",
+  "material": "Brass",
+  "finish": "Black box, gold ribbon",
+  "dimensions": "40 × 30 × 16 cm box",
+  "weight": "4.8 kg",
+  "care": "Brass develops a soft patina over time. To restore shine, polish with a paste of lemon and salt, rinse, and dry thoroughly.",
+  "price": 8990,
+  "originalPrice": 10490,
+  "images": [
+   "brass-bowl-hand",
+   "gift-black-gold"
+  ],
+  "availability": true,
+  "stock": 4,
+  "rating": 5,
+  "reviewCount": 9,
+  "isFeatured": true,
+  "isBestSeller": false,
+  "isNewArrival": false,
+  "tags": [
+   "gifting",
+   "brass",
+   "festive",
+   "wedding"
+  ],
+  "createdAt": "2026-07-12T00:00:00.000Z",
+  "salesRank": 991
+ }
+]

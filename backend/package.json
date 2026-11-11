@@ -1,0 +1,21 @@
+{
+  "name": "orrniva-backend",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node --watch server.js",
+    "start": "node server.js",
+    "seed": "node seed.js",
+    "export-products": "node --input-type=module -e \"const {PRODUCTS}=await import('../frontend/src/data/products.ts');(await import('fs')).writeFileSync('data/products.json',JSON.stringify(PRODUCTS,null,1));console.log(PRODUCTS.length)\""
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.10",
+    "express": "^5.3.0",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.12.0"
+  }
+}

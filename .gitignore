@@ -1,0 +1,10 @@
+node_modules
+dist
+*.log
+.vercel
+*.tsbuildinfo
+
+# Environment files: keep secrets out of GitHub. The .env.example files are committed.
+.env
+.env.*
+!.env.example
